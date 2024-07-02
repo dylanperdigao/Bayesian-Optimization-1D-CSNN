@@ -37,11 +37,11 @@ The repository is structured as follows:
 - [`images`](./images): Contains the images used in this README file.
 - [`src`](./src): Contains the source code of the project.
     - [`modules`](./modules): Contains the utilitary files used in the project.
-    - [`get_best_config.ipynb`](./src/get_best_config.ipynb): Jupyter notebook to find the best hyperparameters for the 1D-Convolutional Spiking Neural Network.
-    - [`get_best_hyperparams.ipynb`](./src/get_best_hyperparams.ipynb): Script to find the best hyperparameters for the 1D-Convolutional Spiking Neural Network.
-    - [`main.py`](./src/main.py): Main script to run the optimized 1D-Convolutional Spiking Neural Network architectures.
-    - [`plot_pareto_front.ipynb`](./src/plot_pareto_front.ipynb): Jupyter notebook to plot the Pareto front of the Bayesian optimization configurations.
-    - [`plot_syringeplot.ipynb`](./src/plot_syringeplot.ipynb): Jupyter notebook to plot the syringeplot of the Bayesian optimization configurations.
+    - [`get_best_config.ipynb`](./src/get_best_config.ipynb): Jupyter notebook to find the best configurations for each 1D-Convolutional Spiking Neural Network architectures.
+    - [`get_best_hyperparams.ipynb`](./src/get_best_hyperparams.ipynb): Jupyter notebook to find the best combinations of hyperparameters/configuration for each 1D-Convolutional Spiking Neural Network architectures.
+    - [`main.py`](./src/main.py): Main script to run the Bayesian Optimization of the 1D-Convolutional Spiking Neural Network architectures and configurations.
+    - [`plot_pareto_front.ipynb`](./src/plot_pareto_front.ipynb): Jupyter notebook to plot the Pareto front of the optimized configurations.
+    - [`plot_syringeplot.ipynb`](./src/plot_syringeplot.ipynb): Jupyter notebook to plot the syringeplot of the optimized configurations.
 
 
 
