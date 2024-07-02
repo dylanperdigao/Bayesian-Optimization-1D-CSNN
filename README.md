@@ -1,5 +1,7 @@
 # Improving Fraud Detection with 1D-Convolutional Spiking Neural Networks through Bayesian Optimization
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12628435.svg)](https://doi.org/10.5281/zenodo.12628435)
+
 Source code of the paper accepted at [EPIA 2024](https://epia2024.pt/), the 23rd International Conference on Artificial Intelligence.
 
 ## Paper Abstract
