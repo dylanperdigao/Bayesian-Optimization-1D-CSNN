@@ -34,9 +34,15 @@ The Bank Account Fraud (BAF) dataset is a synthetic dataset based on real-world 
 The repository is structured as follows:
 
 - [`data`](./data/README.md): Contains the Bank Account Fraud dataset.
-- [`images`](./images/README.md): Contains the images used in this README file.
-- [`notebooks`](./notebooks/README.md): Contains the Jupyter notebooks used to train the models and generate the results.
-- [`src`](./src/README.md): Contains the source code of the project.
+- [`images`](./images): Contains the images used in this README file.
+- [`src`](./src): Contains the source code of the project.
+    - [`modules`](./modules): Contains the utilitary files used in the project.
+    - [`get_best_config.ipynb`](./src/get_best_config.ipynb): Jupyter notebook to find the best hyperparameters for the 1D-Convolutional Spiking Neural Network.
+    - [`get_best_hyperparams.py`](./src/get_best_hyperparams.py): Script to find the best hyperparameters for the 1D-Convolutional Spiking Neural Network.
+    - [`main.py`](./src/main.py): Main script to run the optimized 1D-Convolutional Spiking Neural Network architectures.
+    - [`plot_pareto_front.ipynb`](./src/plot_pareto_front.ipynb): Jupyter notebook to plot the Pareto front of the Bayesian optimization configurations.
+    - [`plot_syringeplot.ipynb`](./src/plot_syringeplot.ipynb): Jupyter notebook to plot the syringeplot of the Bayesian optimization configurations.
+
 
 
 ## Bibtex
