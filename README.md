@@ -55,3 +55,7 @@ To cite this work, use the following bibtex entry:
 TBD
 ```
 
+## Issues
+
+This code is imported and adapted from the original research repository. Consequently, the code may contain bugs or issues.
+If you encounter any issues while running the code, please open an issue in the repository.
