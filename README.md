@@ -52,7 +52,16 @@ The repository is structured as follows:
 To cite this work, use the following bibtex entry:
 
 ```bibtex
-TBD
+@inproceedings{perdigao2024, 
+    title={{Improving Fraud Detection with 1D-Convolutional Spiking Neural Networks through Bayesian Optimization}},
+    author={Perdigão, Dylan and Antunes, Francisco and Silva, Catarina and Ribeiro, Bernardete}, 
+    booktitle={Progress in Artificial Intelligence}, 
+    series={Lecture Notes in Computer Science}, 
+    volume={14969}, 
+    ISBN={978-3-031-73502-8}, 
+    publisher={Springer Cham}, 
+    year={2024}, 
+}
 ```
 
 ## Issues
