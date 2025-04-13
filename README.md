@@ -4,7 +4,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/improving-fraud-detection-with-1d/fairness-on-baf-base)](https://paperswithcode.com/sota/fairness-on-baf-base?p=improving-fraud-detection-with-1d)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/improving-fraud-detection-with-1d/fraud-detection-on-baf-base)](https://paperswithcode.com/sota/fraud-detection-on-baf-base?p=improving-fraud-detection-with-1d)
 
-Source code of the paper accepted at [EPIA 2024](https://epia2024.pt/), the 23rd International Conference on Artificial Intelligence.
+Source code of the paper entitled "Improving Fraud Detection with 1D-Convolutional Spiking Neural Networks Through Bayesian Optimization" and presented at [EPIA 2024](https://epia2024.pt/), the 23rd International Conference on Artificial Intelligence.
 
 ## Paper Abstract
 The digitalization of the banking sector has enabled an increasing number of fraudulent activities in the past years. The development of new practical solutions for fraud detection is particularly challenging since the industry needs to respect a 5\% threshold of false detection of fraud, avoiding monetary losses. The usage of traditional machine learning algorithms faces other challenges, such as classification discrimination and high energy consumption. Spiking Neural Networks, designed to mimic the brain's natural processes, present a compelling alternative. Particularly on neuromorphic hardware, they exhibit remarkable energy efficiency, paving the way for the advancement of sustainable Artificial Intelligence.
@@ -55,12 +55,12 @@ To cite this work, use the following bibtex entry:
 
 ```bibtex
 @inproceedings{perdigao_improving_2025, 
-    author="Perdig{\~a}o, Dylan
+    author="Perdigão, Dylan
         and Antunes, Francisco
         and Silva, Catarina
         and Ribeiro, Bernardete",
     editor="Santos, Manuel Filipe
-        and Machado, Jos{\'e}
+        and Machado, José
         and Novais, Paulo
         and Cortez, Paulo
         and Moreira, Pedro Miguel",
@@ -71,7 +71,7 @@ To cite this work, use the following bibtex entry:
     address="Cham",
     pages="127--138",
     isbn="978-3-031-73503-5",
-    doi={10.1007/978-3-031-73503-5_11}
+    doi="10.1007/978-3-031-73503-5_11"
 }
 ```
 
