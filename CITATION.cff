@@ -5,7 +5,7 @@ authors:
   given-names: "Dylan"
   orcid: "https://orcid.org/0000-0001-6923-900X"
 title: "Bayesian Optimization with 1D-CSNN"
-version: 1.0.1
+version: 1.0.2
 doi: 10.5281/zenodo.12628435
 date-released: 2025-04-13
 url: "https://github.com/DylanPerdigao/Bayesian-Optimization-1D-CSNN"
