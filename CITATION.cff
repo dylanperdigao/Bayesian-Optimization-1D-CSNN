@@ -1,20 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite it as below."
+message: "If you use this code, please cite its respective paper: https://doi.org/10.1007/978-3-031-73503-5_11."
 authors:
 - family-names: "Perdigão"
   given-names: "Dylan"
   orcid: "https://orcid.org/0000-0001-6923-900X"
-- family-names: "Antunes"
-  given-names: "Francisco"
-  orcid: "https://orcid.org/0000-0001-5286-866X"
-- family-names: "Silva"
-  given-names: "Catarina"
-  orcid: "https://orcid.org/0000-0002-5656-0061"
-- family-names: "Ribeiro"
-  given-names: "Bernadete"
-  orcid: "https://orcid.org/0000-0002-9770-7672"
 title: "Bayesian Optimization with 1D-CSNN"
-version: 1.0
+version: 1.0.1
 doi: 10.5281/zenodo.12628435
-date-released: 2024-07-02
+date-released: 2025-04-13
 url: "https://github.com/DylanPerdigao/Bayesian-Optimization-1D-CSNN"

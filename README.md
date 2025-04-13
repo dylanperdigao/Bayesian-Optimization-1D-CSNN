@@ -1,6 +1,7 @@
 # Improving Fraud Detection with 1D-Convolutional Spiking Neural Networks through Bayesian Optimization
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12628435.svg)](https://doi.org/10.5281/zenodo.12628435)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/improving-fraud-detection-with-1d/fairness-on-baf-base)](https://paperswithcode.com/sota/fairness-on-baf-base?p=improving-fraud-detection-with-1d)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/improving-fraud-detection-with-1d/fraud-detection-on-baf-base)](https://paperswithcode.com/sota/fraud-detection-on-baf-base?p=improving-fraud-detection-with-1d)
 
